@@ -1,0 +1,26 @@
+{
+  "name": "ts-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Pei Fan",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "rollup": "^0.66.4",
+    "rollup-plugin-replace": "^2.1.0",
+    "rollup-plugin-vue": "^4.3.2",
+    "ts-jest": "^23.10.4",
+    "ts-loader": "^5.2.1",
+    "typescript": "^3.1.1",
+    "uglify-js": "^3.4.9",
+    "vue": "^2.5.17"
+  }
+}
